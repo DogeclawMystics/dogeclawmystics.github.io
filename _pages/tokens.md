@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Alters & Tokens"
-permalink: /about/
+permalink: /tokens/
 description: "Apartado artístico: diseño de Alters y tokens "
 image:
   feature: banners/header.png
