@@ -1,5 +1,5 @@
 <span>
-  &copy; {{ site.time | date: '%Y' }} <a href="https://github.com/Interferencias/interferencias.github.io">{{ site.author.name }}</a>.
+  &copy; {{ site.time | date: '%Y' }} <a href="https://github.com/DogeclawMystics/dogeclawmystics.github.io">{{ site.author.name }}</a>.
   Sitio web generado con <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>
   basándose en <a href="https://mademistakes.com/work/hpstr-jekyll-theme/" rel="nofollow">HPSTR Theme</a>.
   <br>Contenido publicado bajo licencia <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> salvo recursos en los que explícitamente se indique lo contrario.
