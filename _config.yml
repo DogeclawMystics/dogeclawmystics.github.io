@@ -1,7 +1,5 @@
-title:            Interferencias
-description:      Grupo ciberactivista dedicado a organizar actividades y compartir
-  información y opinión sobre derechos digitales, seguridad informática y temáticas
-  similares.
+title:            Dogeclaw Mystics
+description:      Grupo de Magic The gathering 
 reading_time:     true
 words_per_minute: 200
 
@@ -12,18 +10,12 @@ url: https://dogeclawmystics.github.io
 
 # Author information
 author:
-  name:           Interferencias
+  name:           Dogeclaw Mystics
   avatar:         logo.png
-  bio:            Grupo ciberactivista dedicado a organizar actividades y compartir
-    información y opinión sobre derechos digitales, seguridad informática y temáticas
-    similares.
-  email:          info@interferencias.tech
+  bio:            Grupo de Magic the Gathering
+  email:          dogeclawmystics@protonmail.com
   # Social networking links used in footer.
-  telegram:       inter_ferencias
-  twitter:        inter_ferencias
-  mastodon:       interferencias
-  github:         interferencias
-  vimeo:          interferencias
+  twitter:        Dogeclaw
 
 # Background image to be tiled on all pages
 background:
